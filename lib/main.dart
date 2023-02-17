@@ -1,13 +1,3 @@
-// Performance Tracker
-<<<<<<< Updated upstream
-// Tangu
-// Mod
-=======
-// Tanguy V
-// Modif.
-// Antoine
->>>>>>> Stashed changes
-
 import 'package:flutter/material.dart';
 
 void main() {
