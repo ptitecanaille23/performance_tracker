@@ -1,6 +1,6 @@
 // Performance Tracker
 // Tangu
-// Mod
+// Modi
 
 import 'package:flutter/material.dart';
 
