@@ -1,5 +1,5 @@
 // Performance Tracker
-//Tanguy
+// Tanguy V
 
 import 'package:flutter/material.dart';
 
